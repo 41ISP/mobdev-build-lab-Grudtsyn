@@ -1,4 +1,4 @@
-import react from '@vitejs/plugin-react'
+android/app/build/outputs/apk/debug/app-debug.apkimport react from '@vitejs/plugin-react'
 import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
